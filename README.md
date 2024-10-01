@@ -1,4 +1,4 @@
-# Breast-Mass-Classification-Using-Decision-Trees-Random-Forests-AdaBoost-and-Naive-Bayes-with-PCA
+# Breast Mass Classification Using DecisionTrees, Random Forests, AdaBoost and Naive Bayes with PCA
 
 
 ### Project Title:
@@ -72,7 +72,3 @@
 
 2. **Compare Reduced Features**:
    - Train an RF classifier with 100 estimators using the reduced feature set and compare the performance to the RF model trained with all features.
-
----
-
-This structure will help you manage the steps efficiently and report the required outputs like accuracy, visualizations, and cross-validation results. Let me know if you need further details!
