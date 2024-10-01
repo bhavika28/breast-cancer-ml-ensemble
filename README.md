@@ -1,9 +1,5 @@
 # Breast Mass Classification Using DecisionTrees, Random Forests, AdaBoost and Naive Bayes with PCA
 
-
-### Project Title:
-**"Breast Mass Classification Using Decision Trees, Random Forests, AdaBoost, and Naive Bayes with PCA for Feature Reduction"**
-
 ### Steps for the Project:
 
 #### Step 1: Import the Dataset
